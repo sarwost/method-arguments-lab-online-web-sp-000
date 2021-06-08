@@ -2,7 +2,6 @@
 #language = "Ruby" 
 
 def introduction(name)
-  puts "Hi I'm #{name}"
 end 
 
 def introduction_with_language(name, language)
